@@ -19,4 +19,5 @@ angular.module('languages',["ui.router"])
     },
     controllerAs : 'languagesCtrl'
   })
+
 })

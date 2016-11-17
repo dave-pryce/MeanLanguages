@@ -6,7 +6,7 @@ let app = express();
 let mongoUtil = require('./mongoUtil');
 mongoUtil.connect();
 
-app.set('port',(process.env.PORT || 8181));
+app.set('port',(process.env.PORT || 8000));
 
 app.use(express.static(__dirname + "/../client") );
 

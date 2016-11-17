@@ -1,7 +1,6 @@
 # MEAN Stack
 
-Code for a Simple CRUD MEAN stack application.
-Allows users to enter / edit their favourite programming languages.
+Code for a Simple MEAN stack application.
 
 * MongoDB
 * Express
